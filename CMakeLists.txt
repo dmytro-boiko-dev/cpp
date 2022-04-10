@@ -3,5 +3,6 @@ project(cpp)
 
 set(CMAKE_CXX_STANDARD 98)
 
-add_executable(cpp main.cpp)
+#add_executable(cpp main.cpp)
+add_executable(cpp core/Variables.cpp)
 #add_executable(cpp tasks/Lottery.cpp)
