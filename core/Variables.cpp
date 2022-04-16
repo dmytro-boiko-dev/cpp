@@ -19,7 +19,7 @@ int main() {
     const char NEW_LINE = '\n';
 
     string str = "Hello World!";
-    
+
     cout << i << NEW_LINE;
     cout << s << NEW_LINE;
     cout << l << NEW_LINE;

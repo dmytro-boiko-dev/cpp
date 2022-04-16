@@ -1,7 +1,3 @@
-//
-// Created by Dmitry on 10-Apr-22.
-//
-
 #include <iostream>
 #include <ctime>
 #include <algorithm>
